@@ -1,0 +1,16 @@
+.striped{
+    background: linear-gradient(to bottom left, cyan 50%, palegoldenrod 50%);
+
+}
+.nav-link{
+    text-decoration: solid;
+}
+img {
+    border-radius: 10%;
+  }
+  .form-group{
+    
+    padding: 20px;
+    
+  }
+  
